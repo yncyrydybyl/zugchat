@@ -46,10 +46,18 @@ z.B.in #BB-RE-5
 * https://github.com/matrix-org/matrix-appservice-bridge/blob/develop/HOWTO.md
 * https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/186
 
+## Räume in andere Netzwerke
+
+* Telegram
+* Whatsapp
+* Signal
+* Imessage
+
 # Data
 
 ## SollFahrplan
-    https://download-data.deutschebahn.com/static/datasets/regiohack-tempdata/paket_3_2_soll_fahrplan.zip 2.3 GB / 53GB
+
+    paket_3_2_soll_fahrplan.zip 2.3 GB / 53GB
 
 ## GTFS Positionen
 
